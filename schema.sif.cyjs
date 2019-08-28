@@ -1,0 +1,1140 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.7.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "schema.sif",
+    "name" : "schema.sif",
+    "SUID" : 64,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "146",
+        "shared_name" : "ProteinStructure",
+        "name" : "ProteinStructure",
+        "SUID" : 146,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 461.28482097423307,
+        "y" : -45.98106359780681
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "shared_name" : "Program",
+        "name" : "Program",
+        "SUID" : 140,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -83.41814336059997,
+        "y" : 238.1098711451372
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "shared_name" : "Protein",
+        "name" : "Protein",
+        "SUID" : 136,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 334.671309649239,
+        "y" : -60.904528294203345
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "shared_name" : "PfamClan",
+        "name" : "PfamClan",
+        "SUID" : 132,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 357.91783607485036,
+        "y" : -206.79821400843414
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "shared_name" : "PfamFamily",
+        "name" : "PfamFamily",
+        "SUID" : 127,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 278.4781116363142,
+        "y" : -137.82829725936423
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "shared_name" : "Publication",
+        "name" : "Publication",
+        "SUID" : 122,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 156.2081334826571,
+        "y" : 99.37736863722299
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "shared_name" : "GenomicFeature",
+        "name" : "GenomicFeature",
+        "SUID" : 120,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 34.250148596873686,
+        "y" : 136.65170288085938
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "shared_name" : "Exon",
+        "name" : "Exon",
+        "SUID" : 115,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 321.64921976275696,
+        "y" : 77.09631992828523
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "shared_name" : "Transcript",
+        "name" : "Transcript",
+        "SUID" : 112,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 248.12044400752302,
+        "y" : 5.728531319956716
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "shared_name" : "GeneOntologyTerm",
+        "name" : "GeneOntologyTerm",
+        "SUID" : 101,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 153.41917596813528,
+        "y" : -102.50884949554208
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "shared_name" : "Phenotype",
+        "name" : "Phenotype",
+        "SUID" : 99,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -92.09045955334977,
+        "y" : 30.579118031605418
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "shared_name" : "Project",
+        "name" : "Project",
+        "SUID" : 97,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -157.55330187709,
+        "y" : 167.06118733564963
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "shared_name" : "Compound",
+        "name" : "Compound",
+        "SUID" : 95,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -96.30016019076152,
+        "y" : 91.82190812126115
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "shared_name" : "Case",
+        "name" : "Case",
+        "SUID" : 93,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -217.59776463586832,
+        "y" : 91.192542277478
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "shared_name" : "G2PAssociation",
+        "name" : "G2PAssociation",
+        "SUID" : 90,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 31.142970862498682,
+        "y" : 49.02257537841797
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "shared_name" : "Allele",
+        "name" : "Allele",
+        "SUID" : 88,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5.053054620303328,
+        "y" : -35.371730294174625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "shared_name" : "Gene",
+        "name" : "Gene",
+        "SUID" : 87,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 121.03746558112971,
+        "y" : -18.33976841811804
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "shared_name" : "Sample",
+        "name" : "Sample",
+        "SUID" : 85,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -310.4687985392877,
+        "y" : 26.71943654717225
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "shared_name" : "DrugResponse",
+        "name" : "DrugResponse",
+        "SUID" : 83,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -203.2997363755886,
+        "y" : 2.219705757984717
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "shared_name" : "SomaticCallset",
+        "name" : "SomaticCallset",
+        "SUID" : 81,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -131.46829223632812,
+        "y" : -70.57812863837759
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "shared_name" : "CopyNumberAlteration",
+        "name" : "CopyNumberAlteration",
+        "SUID" : 79,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -193.05120849609375,
+        "y" : -126.89761352539062
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "shared_name" : "TranscriptExpression",
+        "name" : "TranscriptExpression",
+        "SUID" : 77,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -345.1532897949219,
+        "y" : -122.20373898994009
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "shared_name" : "Aliquot",
+        "name" : "Aliquot",
+        "SUID" : 75,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -260.92582681824683,
+        "y" : -53.86756042137196
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "shared_name" : "GeneExpression",
+        "name" : "GeneExpression",
+        "SUID" : 74,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -390.9151611328125,
+        "y" : -39.32429105292837
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "147",
+        "source" : "146",
+        "target" : "136",
+        "shared_name" : "ProteinStructure (protein) Protein",
+        "shared_interaction" : "protein",
+        "name" : "ProteinStructure (protein) Protein",
+        "interaction" : "protein",
+        "SUID" : 147,
+        "BEND_MAP_ID" : 147,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "source" : "140",
+        "target" : "97",
+        "shared_name" : "Program (projects) Project",
+        "shared_interaction" : "projects",
+        "name" : "Program (projects) Project",
+        "interaction" : "projects",
+        "SUID" : 143,
+        "BEND_MAP_ID" : 143,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "source" : "136",
+        "target" : "112",
+        "shared_name" : "Protein (transcript) Transcript",
+        "shared_interaction" : "transcript",
+        "name" : "Protein (transcript) Transcript",
+        "interaction" : "transcript",
+        "SUID" : 156,
+        "BEND_MAP_ID" : 156,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "source" : "136",
+        "target" : "146",
+        "shared_name" : "Protein (protein_structures) ProteinStructure",
+        "shared_interaction" : "protein_structures",
+        "name" : "Protein (protein_structures) ProteinStructure",
+        "interaction" : "protein_structures",
+        "SUID" : 148,
+        "BEND_MAP_ID" : 148,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "source" : "136",
+        "target" : "127",
+        "shared_name" : "Protein (pfam_families) PfamFamily",
+        "shared_interaction" : "pfam_families",
+        "name" : "Protein (pfam_families) PfamFamily",
+        "interaction" : "pfam_families",
+        "SUID" : 137,
+        "BEND_MAP_ID" : 137,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "source" : "132",
+        "target" : "127",
+        "shared_name" : "PfamClan (pfam_families) PfamFamily",
+        "shared_interaction" : "pfam_families",
+        "name" : "PfamClan (pfam_families) PfamFamily",
+        "interaction" : "pfam_families",
+        "SUID" : 135,
+        "BEND_MAP_ID" : 135,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "source" : "127",
+        "target" : "136",
+        "shared_name" : "PfamFamily (proteins) Protein",
+        "shared_interaction" : "proteins",
+        "name" : "PfamFamily (proteins) Protein",
+        "interaction" : "proteins",
+        "SUID" : 149,
+        "BEND_MAP_ID" : 149,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "source" : "127",
+        "target" : "132",
+        "shared_name" : "PfamFamily (pfam_clans) PfamClan",
+        "shared_interaction" : "pfam_clans",
+        "name" : "PfamFamily (pfam_clans) PfamClan",
+        "interaction" : "pfam_clans",
+        "SUID" : 133,
+        "BEND_MAP_ID" : 133,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "source" : "127",
+        "target" : "101",
+        "shared_name" : "PfamFamily (gene_ontology_terms) GeneOntologyTerm",
+        "shared_interaction" : "gene_ontology_terms",
+        "name" : "PfamFamily (gene_ontology_terms) GeneOntologyTerm",
+        "interaction" : "gene_ontology_terms",
+        "SUID" : 128,
+        "BEND_MAP_ID" : 128,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "source" : "122",
+        "target" : "90",
+        "shared_name" : "Publication (g2p_associations) G2PAssociation",
+        "shared_interaction" : "g2p_associations",
+        "name" : "Publication (g2p_associations) G2PAssociation",
+        "interaction" : "g2p_associations",
+        "SUID" : 123,
+        "BEND_MAP_ID" : 123,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "source" : "120",
+        "target" : "90",
+        "shared_name" : "GenomicFeature (g2p_associations) G2PAssociation",
+        "shared_interaction" : "g2p_associations",
+        "name" : "GenomicFeature (g2p_associations) G2PAssociation",
+        "interaction" : "g2p_associations",
+        "SUID" : 121,
+        "BEND_MAP_ID" : 121,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "source" : "115",
+        "target" : "112",
+        "shared_name" : "Exon (transcripts) Transcript",
+        "shared_interaction" : "transcripts",
+        "name" : "Exon (transcripts) Transcript",
+        "interaction" : "transcripts",
+        "SUID" : 158,
+        "BEND_MAP_ID" : 158,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "source" : "112",
+        "target" : "136",
+        "shared_name" : "Transcript (protein) Protein",
+        "shared_interaction" : "protein",
+        "name" : "Transcript (protein) Protein",
+        "interaction" : "protein",
+        "SUID" : 145,
+        "BEND_MAP_ID" : 145,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "source" : "112",
+        "target" : "115",
+        "shared_name" : "Transcript (exons) Exon",
+        "shared_interaction" : "exons",
+        "name" : "Transcript (exons) Exon",
+        "interaction" : "exons",
+        "SUID" : 116,
+        "BEND_MAP_ID" : 116,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "source" : "112",
+        "target" : "87",
+        "shared_name" : "Transcript (gene) Gene",
+        "shared_interaction" : "gene",
+        "name" : "Transcript (gene) Gene",
+        "interaction" : "gene",
+        "SUID" : 114,
+        "BEND_MAP_ID" : 114,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "source" : "101",
+        "target" : "127",
+        "shared_name" : "GeneOntologyTerm (pfam_families) PfamFamily",
+        "shared_interaction" : "pfam_families",
+        "name" : "GeneOntologyTerm (pfam_families) PfamFamily",
+        "interaction" : "pfam_families",
+        "SUID" : 134,
+        "BEND_MAP_ID" : 134,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "source" : "101",
+        "target" : "87",
+        "shared_name" : "GeneOntologyTerm (genes) Gene",
+        "shared_interaction" : "genes",
+        "name" : "GeneOntologyTerm (genes) Gene",
+        "interaction" : "genes",
+        "SUID" : 103,
+        "BEND_MAP_ID" : 103,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "source" : "99",
+        "target" : "90",
+        "shared_name" : "Phenotype (g2p_associations) G2PAssociation",
+        "shared_interaction" : "g2p_associations",
+        "name" : "Phenotype (g2p_associations) G2PAssociation",
+        "interaction" : "g2p_associations",
+        "SUID" : 124,
+        "BEND_MAP_ID" : 124,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "source" : "99",
+        "target" : "93",
+        "shared_name" : "Phenotype (cases) Case",
+        "shared_interaction" : "cases",
+        "name" : "Phenotype (cases) Case",
+        "interaction" : "cases",
+        "SUID" : 100,
+        "BEND_MAP_ID" : 100,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "source" : "97",
+        "target" : "140",
+        "shared_name" : "Project (programs) Program",
+        "shared_interaction" : "programs",
+        "name" : "Project (programs) Program",
+        "interaction" : "programs",
+        "SUID" : 141,
+        "BEND_MAP_ID" : 141,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "source" : "97",
+        "target" : "95",
+        "shared_name" : "Project (compounds) Compound",
+        "shared_interaction" : "compounds",
+        "name" : "Project (compounds) Compound",
+        "interaction" : "compounds",
+        "SUID" : 106,
+        "BEND_MAP_ID" : 106,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "source" : "97",
+        "target" : "93",
+        "shared_name" : "Project (cases) Case",
+        "shared_interaction" : "cases",
+        "name" : "Project (cases) Case",
+        "interaction" : "cases",
+        "SUID" : 98,
+        "BEND_MAP_ID" : 98,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "source" : "95",
+        "target" : "97",
+        "shared_name" : "Compound (projects) Project",
+        "shared_interaction" : "projects",
+        "name" : "Compound (projects) Project",
+        "interaction" : "projects",
+        "SUID" : 144,
+        "BEND_MAP_ID" : 144,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "source" : "95",
+        "target" : "90",
+        "shared_name" : "Compound (g2p_associations) G2PAssociation",
+        "shared_interaction" : "g2p_associations",
+        "name" : "Compound (g2p_associations) G2PAssociation",
+        "interaction" : "g2p_associations",
+        "SUID" : 117,
+        "BEND_MAP_ID" : 117,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "source" : "95",
+        "target" : "83",
+        "shared_name" : "Compound (drug_responses) DrugResponse",
+        "shared_interaction" : "drug_responses",
+        "name" : "Compound (drug_responses) DrugResponse",
+        "interaction" : "drug_responses",
+        "SUID" : 111,
+        "BEND_MAP_ID" : 111,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "source" : "95",
+        "target" : "93",
+        "shared_name" : "Compound (cases) Case",
+        "shared_interaction" : "cases",
+        "name" : "Compound (cases) Case",
+        "interaction" : "cases",
+        "SUID" : 96,
+        "BEND_MAP_ID" : 96,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "source" : "93",
+        "target" : "85",
+        "shared_name" : "Case (samples) Sample",
+        "shared_interaction" : "samples",
+        "name" : "Case (samples) Sample",
+        "interaction" : "samples",
+        "SUID" : 153,
+        "BEND_MAP_ID" : 153,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "source" : "93",
+        "target" : "97",
+        "shared_name" : "Case (projects) Project",
+        "shared_interaction" : "projects",
+        "name" : "Case (projects) Project",
+        "interaction" : "projects",
+        "SUID" : 142,
+        "BEND_MAP_ID" : 142,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "source" : "93",
+        "target" : "99",
+        "shared_name" : "Case (phenotypes) Phenotype",
+        "shared_interaction" : "phenotypes",
+        "name" : "Case (phenotypes) Phenotype",
+        "interaction" : "phenotypes",
+        "SUID" : 138,
+        "BEND_MAP_ID" : 138,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "source" : "93",
+        "target" : "95",
+        "shared_name" : "Case (compounds) Compound",
+        "shared_interaction" : "compounds",
+        "name" : "Case (compounds) Compound",
+        "interaction" : "compounds",
+        "SUID" : 105,
+        "BEND_MAP_ID" : 105,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "source" : "90",
+        "target" : "122",
+        "shared_name" : "G2PAssociation (publications) Publication",
+        "shared_interaction" : "publications",
+        "name" : "G2PAssociation (publications) Publication",
+        "interaction" : "publications",
+        "SUID" : 150,
+        "BEND_MAP_ID" : 150,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "source" : "90",
+        "target" : "99",
+        "shared_name" : "G2PAssociation (phenotypes) Phenotype",
+        "shared_interaction" : "phenotypes",
+        "name" : "G2PAssociation (phenotypes) Phenotype",
+        "interaction" : "phenotypes",
+        "SUID" : 139,
+        "BEND_MAP_ID" : 139,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "source" : "90",
+        "target" : "120",
+        "shared_name" : "G2PAssociation (genomic_features) GenomicFeature",
+        "shared_interaction" : "genomic_features",
+        "name" : "G2PAssociation (genomic_features) GenomicFeature",
+        "interaction" : "genomic_features",
+        "SUID" : 130,
+        "BEND_MAP_ID" : 130,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "source" : "90",
+        "target" : "87",
+        "shared_name" : "G2PAssociation (genes) Gene",
+        "shared_interaction" : "genes",
+        "name" : "G2PAssociation (genes) Gene",
+        "interaction" : "genes",
+        "SUID" : 129,
+        "BEND_MAP_ID" : 129,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "source" : "90",
+        "target" : "95",
+        "shared_name" : "G2PAssociation (compounds) Compound",
+        "shared_interaction" : "compounds",
+        "name" : "G2PAssociation (compounds) Compound",
+        "interaction" : "compounds",
+        "SUID" : 108,
+        "BEND_MAP_ID" : 108,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "source" : "90",
+        "target" : "88",
+        "shared_name" : "G2PAssociation (alleles) Allele",
+        "shared_interaction" : "alleles",
+        "name" : "G2PAssociation (alleles) Allele",
+        "interaction" : "alleles",
+        "SUID" : 91,
+        "BEND_MAP_ID" : 91,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "source" : "88",
+        "target" : "81",
+        "shared_name" : "Allele (somatic_callsets) SomaticCallset",
+        "shared_interaction" : "somatic_callsets",
+        "name" : "Allele (somatic_callsets) SomaticCallset",
+        "interaction" : "somatic_callsets",
+        "SUID" : 155,
+        "BEND_MAP_ID" : 155,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "source" : "88",
+        "target" : "87",
+        "shared_name" : "Allele (gene) Gene",
+        "shared_interaction" : "gene",
+        "name" : "Allele (gene) Gene",
+        "interaction" : "gene",
+        "SUID" : 125,
+        "BEND_MAP_ID" : 125,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "source" : "88",
+        "target" : "90",
+        "shared_name" : "Allele (g2p_associations) G2PAssociation",
+        "shared_interaction" : "g2p_associations",
+        "name" : "Allele (g2p_associations) G2PAssociation",
+        "interaction" : "g2p_associations",
+        "SUID" : 118,
+        "BEND_MAP_ID" : 118,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "source" : "87",
+        "target" : "90",
+        "shared_name" : "Gene (g2p_associations) G2PAssociation",
+        "shared_interaction" : "g2p_associations",
+        "name" : "Gene (g2p_associations) G2PAssociation",
+        "interaction" : "g2p_associations",
+        "SUID" : 119,
+        "BEND_MAP_ID" : 119,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "source" : "87",
+        "target" : "112",
+        "shared_name" : "Gene (transcripts) Transcript",
+        "shared_interaction" : "transcripts",
+        "name" : "Gene (transcripts) Transcript",
+        "interaction" : "transcripts",
+        "SUID" : 113,
+        "BEND_MAP_ID" : 113,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "source" : "87",
+        "target" : "101",
+        "shared_name" : "Gene (gene_ontology_terms) GeneOntologyTerm",
+        "shared_interaction" : "gene_ontology_terms",
+        "name" : "Gene (gene_ontology_terms) GeneOntologyTerm",
+        "interaction" : "gene_ontology_terms",
+        "SUID" : 104,
+        "BEND_MAP_ID" : 104,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "source" : "87",
+        "target" : "88",
+        "shared_name" : "Gene (alleles) Allele",
+        "shared_interaction" : "alleles",
+        "name" : "Gene (alleles) Allele",
+        "interaction" : "alleles",
+        "SUID" : 89,
+        "BEND_MAP_ID" : 89,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "source" : "85",
+        "target" : "93",
+        "shared_name" : "Sample (case) Case",
+        "shared_interaction" : "case",
+        "name" : "Sample (case) Case",
+        "interaction" : "case",
+        "SUID" : 94,
+        "BEND_MAP_ID" : 94,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "source" : "85",
+        "target" : "75",
+        "shared_name" : "Sample (aliquots) Aliquot",
+        "shared_interaction" : "aliquots",
+        "name" : "Sample (aliquots) Aliquot",
+        "interaction" : "aliquots",
+        "SUID" : 86,
+        "BEND_MAP_ID" : 86,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "source" : "83",
+        "target" : "95",
+        "shared_name" : "DrugResponse (compounds) Compound",
+        "shared_interaction" : "compounds",
+        "name" : "DrugResponse (compounds) Compound",
+        "interaction" : "compounds",
+        "SUID" : 107,
+        "BEND_MAP_ID" : 107,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "source" : "83",
+        "target" : "75",
+        "shared_name" : "DrugResponse (aliquot) Aliquot",
+        "shared_interaction" : "aliquot",
+        "name" : "DrugResponse (aliquot) Aliquot",
+        "interaction" : "aliquot",
+        "SUID" : 84,
+        "BEND_MAP_ID" : 84,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "source" : "81",
+        "target" : "88",
+        "shared_name" : "SomaticCallset (alleles) Allele",
+        "shared_interaction" : "alleles",
+        "name" : "SomaticCallset (alleles) Allele",
+        "interaction" : "alleles",
+        "SUID" : 92,
+        "BEND_MAP_ID" : 92,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "source" : "81",
+        "target" : "75",
+        "shared_name" : "SomaticCallset (aliquots) Aliquot",
+        "shared_interaction" : "aliquots",
+        "name" : "SomaticCallset (aliquots) Aliquot",
+        "interaction" : "aliquots",
+        "SUID" : 82,
+        "BEND_MAP_ID" : 82,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "source" : "79",
+        "target" : "75",
+        "shared_name" : "CopyNumberAlteration (aliquot) Aliquot",
+        "shared_interaction" : "aliquot",
+        "name" : "CopyNumberAlteration (aliquot) Aliquot",
+        "interaction" : "aliquot",
+        "SUID" : 80,
+        "BEND_MAP_ID" : 80,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "source" : "77",
+        "target" : "75",
+        "shared_name" : "TranscriptExpression (aliquot) Aliquot",
+        "shared_interaction" : "aliquot",
+        "name" : "TranscriptExpression (aliquot) Aliquot",
+        "interaction" : "aliquot",
+        "SUID" : 78,
+        "BEND_MAP_ID" : 78,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "source" : "75",
+        "target" : "77",
+        "shared_name" : "Aliquot (transcript_expressions) TranscriptExpression",
+        "shared_interaction" : "transcript_expressions",
+        "name" : "Aliquot (transcript_expressions) TranscriptExpression",
+        "interaction" : "transcript_expressions",
+        "SUID" : 157,
+        "BEND_MAP_ID" : 157,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "source" : "75",
+        "target" : "81",
+        "shared_name" : "Aliquot (somatic_callsets) SomaticCallset",
+        "shared_interaction" : "somatic_callsets",
+        "name" : "Aliquot (somatic_callsets) SomaticCallset",
+        "interaction" : "somatic_callsets",
+        "SUID" : 154,
+        "BEND_MAP_ID" : 154,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "source" : "75",
+        "target" : "85",
+        "shared_name" : "Aliquot (sample) Sample",
+        "shared_interaction" : "sample",
+        "name" : "Aliquot (sample) Sample",
+        "interaction" : "sample",
+        "SUID" : 152,
+        "BEND_MAP_ID" : 152,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "source" : "75",
+        "target" : "74",
+        "shared_name" : "Aliquot (gene_expressions) GeneExpression",
+        "shared_interaction" : "gene_expressions",
+        "name" : "Aliquot (gene_expressions) GeneExpression",
+        "interaction" : "gene_expressions",
+        "SUID" : 126,
+        "BEND_MAP_ID" : 126,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "source" : "75",
+        "target" : "83",
+        "shared_name" : "Aliquot (drug_response) DrugResponse",
+        "shared_interaction" : "drug_response",
+        "name" : "Aliquot (drug_response) DrugResponse",
+        "interaction" : "drug_response",
+        "SUID" : 110,
+        "BEND_MAP_ID" : 110,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "source" : "75",
+        "target" : "79",
+        "shared_name" : "Aliquot (copy_number_alterations) CopyNumberAlteration",
+        "shared_interaction" : "copy_number_alterations",
+        "name" : "Aliquot (copy_number_alterations) CopyNumberAlteration",
+        "interaction" : "copy_number_alterations",
+        "SUID" : 109,
+        "BEND_MAP_ID" : 109,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "source" : "74",
+        "target" : "75",
+        "shared_name" : "GeneExpression (aliquot) Aliquot",
+        "shared_interaction" : "aliquot",
+        "name" : "GeneExpression (aliquot) Aliquot",
+        "interaction" : "aliquot",
+        "SUID" : 76,
+        "BEND_MAP_ID" : 76,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

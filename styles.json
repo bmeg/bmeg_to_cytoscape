@@ -1,0 +1,100 @@
+[ {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.7.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "default",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "border-color" : "rgb(0,0,0)",
+      "font-family" : "SansSerif",
+      "font-weight" : "normal",
+      "width" : 75.0,
+      "text-valign" : "center",
+      "text-halign" : "center",
+      "font-size" : 12,
+      "background-color" : "rgb(255,255,255)",
+      "background-opacity" : 1.0,
+      "shape" : "roundrectangle",
+      "height" : 35.0,
+      "text-opacity" : 1.0,
+      "border-opacity" : 1.0,
+      "border-width" : 1.0,
+      "color" : "rgb(0,0,0)",
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[ id = '120' ]",
+    "css" : {
+      "width" : 130.0
+    }
+  }, {
+    "selector" : "node[ id = '74' ]",
+    "css" : {
+      "width" : 130.0
+    }
+  }, {
+    "selector" : "node[ id = '77' ]",
+    "css" : {
+      "width" : 130.0
+    }
+  }, {
+    "selector" : "node[ id = '79' ]",
+    "css" : {
+      "width" : 135.0
+    }
+  }, {
+    "selector" : "node[ id = '81' ]",
+    "css" : {
+      "width" : 130.0
+    }
+  }, {
+    "selector" : "node[ id = '146' ]",
+    "css" : {
+      "width" : 130.0
+    }
+  }, {
+    "selector" : "node[ id = '83' ]",
+    "css" : {
+      "width" : 130.0
+    }
+  }, {
+    "selector" : "node[ id = '90' ]",
+    "css" : {
+      "width" : 130.0
+    }
+  }, {
+    "selector" : "node[ id = '101' ]",
+    "css" : {
+      "width" : 130.0
+    }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,255,0)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "opacity" : 1.0,
+      "source-arrow-color" : "rgb(0,0,0)",
+      "font-size" : 10,
+      "color" : "rgb(0,0,0)",
+      "target-arrow-shape" : "none",
+      "width" : 1.0,
+      "font-family" : "Dialog",
+      "font-weight" : "normal",
+      "text-opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "line-style" : "solid",
+      "content" : "",
+      "source-arrow-shape" : "none",
+      "line-color" : "rgb(132,132,132)"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+} ]
