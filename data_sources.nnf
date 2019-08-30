@@ -1,0 +1,128 @@
+BMEG	BMEG	includes	PathwayCommons
+BMEG	BMEG	includes	MC3
+BMEG	BMEG	includes	GeneOntology
+BMEG	BMEG	includes	DepMap
+DepMap	DepMap	includes	CCLE
+DepMap	DepMap	includes	CTRP
+DepMap	DepMap	includes	GDSC
+BMEG	BMEG	includes	VICC_G2P
+VICC_G2P	VICC_G2P	includes	JAX
+VICC_G2P	VICC_G2P	includes	OncoKB
+VICC_G2P	VICC_G2P	includes	CiViC
+VICC_G2P	VICC_G2P	includes	MolecularMatch
+VICC_G2P	VICC_G2P	includes	PMKB
+VICC_G2P	VICC_G2P	includes	CGI
+BMEG	BMEG	includes	PFAM
+BMEG	BMEG	includes	Ensembl
+BMEG	BMEG	includes	Uniprot
+BMEG	BMEG	includes	GTEx
+BMEG	BMEG	includes	PubMed
+BMEG	BMEG	includes	DGIdb
+BioGrakn	BioGrakn	includes	Reactome
+BioGrakn	BioGrakn	includes	DGIdb
+BioGrakn	BioGrakn	includes	Uniprot
+BioGrakn	BioGrakn	includes	DrugBank
+BioGrakn	BioGrakn	includes	PubMed
+BioGraph	BioGraph	includes	Uniprot
+BioGraph	BioGraph	includes	HGNC
+BioGraph	BioGraph	includes	GeneOntology
+BioGraph	BioGraph	includes	Reactome
+BioGraph	BioGraph	includes	miRBase
+BioGraph	BioGraph	includes	miRCancer
+BioGraph	BioGraph	includes	microRNA.org
+BioGraph	BioGraph	includes	miRTarBase
+BioGraph	BioGraph	includes	miRNASNP
+Bio4j	Bio4j	includes	Uniprot
+Bio4j	Bio4j	includes	GeneOntology
+Bio4j	Bio4j	includes	UniRef
+Bio4j	Bio4j	includes	NCBITaxonomy
+Bio4j	Bio4j	includes	Expasy
+Monarch	Monarch	includes	MGI
+Monarch	Monarch	includes	ZebrafishInformationNetwork
+Monarch	Monarch	includes	WorkBase
+Monarch	Monarch	includes	FlyBase
+Monarch	Monarch	includes	International Mouse Phenotyping Consortium
+Monarch	Monarch	includes	Mouse Phenome Database
+Monarch	Monarch	includes	OMIA
+Monarch	Monarch	includes	ClinVar
+Monarch	Monarch	includes	OMIM
+Monarch	Monarch	includes	ORPHANET
+Monarch	Monarch	includes	PANTHER
+Monarch	Monarch	includes	Coriell Cell Repositories
+Monarch	Monarch	includes	Comparative Toxicogenomics Database
+Monarch	Monarch	includes	HPO
+Monarch	Monarch	includes	KEGG
+Monarch	Monarch	includes	MyGene
+Monarch	Monarch	includes	BioGRID
+Monarch	Monarch	includes	NHGRI-EBI GWAS
+Monarch	Monarch	includes	AnimalQTLdb
+Monarch	Monarch	includes	Ensembl
+Monarch	Monarch	includes	GeneOntology
+Monarch	Monarch	includes	HUGO
+Monarch	Monarch	includes	Gene Reviews
+Monarch	Monarch	includes	HUGO
+Monarch	Monarch	includes	Mutant Mouse Resource and Research Centers
+Monarch	Monarch	includes	Reactome
+Monarch	Monarch	includes	Undiagnosed Diseases Program
+Monarch	Monarch	includes	Bgee
+Monarch	Monarch	includes	STRING
+Monarch	Monarch	includes	Rat Genome Database
+Monarch	Monarch	includes	Saccharomyces Genome Database
+PathwayCommons	PathwayCommons	includes	BIND
+PathwayCommons	PathwayCommons	includes	BioGRID
+PathwayCommons	PathwayCommons	includes	CORUM
+PathwayCommons	PathwayCommons	includes	Comparative Toxicogenomics Database
+PathwayCommons	PathwayCommons	includes	Reactome
+PathwayCommons	PathwayCommons	includes	NCI:PID
+PathwayCommons	PathwayCommons	includes	PhosphoSitePlus
+PathwayCommons	PathwayCommons	includes	HumanCyc
+PathwayCommons	PathwayCommons	includes	HPRD
+PathwayCommons	PathwayCommons	includes	PANTHER
+PathwayCommons	PathwayCommons	includes	DIP
+PathwayCommons	PathwayCommons	includes	IntAct
+PathwayCommons	PathwayCommons	includes	MSigDB
+PathwayCommons	PathwayCommons	includes	miRTarBase
+PathwayCommons	PathwayCommons	includes	DrugBank
+PathwayCommons	PathwayCommons	includes	Recon X
+PathwayCommons	PathwayCommons	includes	KEGG
+PathwayCommons	PathwayCommons	includes	INOH
+PathwayCommons	PathwayCommons	includes	NetPath
+PathwayCommons	PathwayCommons	includes	WikiPathways
+PathwayCommons	PathwayCommons	includes	InnateDB
+PathwayCommons	PathwayCommons	includes	ChEBI
+PathwayCommons	PathwayCommons	includes	SwissProt
+PathwayCommons	PathwayCommons	includes	UniChem
+Bio2RDF	Bio2RDF	includes	BioModels
+Bio2RDF	Bio2RDF	includes	BioPortal
+Bio2RDF	Bio2RDF	includes	chEMBL
+Bio2RDF	Bio2RDF	includes	clinicaltrials.gov
+Bio2RDF	Bio2RDF	includes	Comparative Toxicogenomics Database
+Bio2RDF	Bio2RDF	includes	dbSNP
+Bio2RDF	Bio2RDF	includes	DrugBank
+Bio2RDF	Bio2RDF	includes	genage
+Bio2RDF	Bio2RDF	includes	GenDR
+Bio2RDF	Bio2RDF	includes	GeneOntologyAnnotation
+Bio2RDF	Bio2RDF	includes	HUGO
+Bio2RDF	Bio2RDF	includes	Homologene
+Bio2RDF	Bio2RDF	includes	Interpro
+Bio2RDF	Bio2RDF	includes	iProClass
+Bio2RDF	Bio2RDF	includes	iRefIndex
+Bio2RDF	Bio2RDF	includes	KEGG
+Bio2RDF	Bio2RDF	includes	LinkedSPL
+Bio2RDF	Bio2RDF	includes	LSR
+Bio2RDF	Bio2RDF	includes	MeSH
+Bio2RDF	Bio2RDF	includes	MGD
+Bio2RDF	Bio2RDF	includes	NCBI Gene
+Bio2RDF	Bio2RDF	includes	NDC
+Bio2RDF	Bio2RDF	includes	OMIM
+Bio2RDF	Bio2RDF	includes	Orphanet
+Bio2RDF	Bio2RDF	includes	PathwayCommons
+Bio2RDF	Bio2RDF	includes	PharmGKB
+Bio2RDF	Bio2RDF	includes	PubMed
+Bio2RDF	Bio2RDF	includes	Reactome
+Bio2RDF	Bio2RDF	includes	SABIO-RK
+Bio2RDF	Bio2RDF	includes	SGD
+Bio2RDF	Bio2RDF	includes	SIDER
+Bio2RDF	Bio2RDF	includes	NCBITaxonomy
+Bio2RDF	Bio2RDF	includes	WikiPathways
+Bio2RDF	Bio2RDF	includes	WormBase

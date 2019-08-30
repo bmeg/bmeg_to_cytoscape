@@ -1,0 +1,105 @@
+name	shape
+AnimalQTLdb	source
+BIND	source
+BMEG	system
+Bgee	source
+Bio2RDF	system
+Bio4j	system
+BioGRID	source
+BioGrakn	system
+BioGraph	system
+BioModels	source
+BioPortal	source
+CCLE	source
+CGI	source
+CORUM	source
+CTRP	source
+ChEBI	source
+CiViC	source
+ClinVar	source
+Comparative Toxicogenomics Database	source
+Coriell Cell Repositories	source
+DGIdb	source
+DIP	source
+DepMap	source
+DrugBank	source
+Ensembl	source
+Expasy	source
+FlyBase	source
+GDSC	source
+GTEx	source
+GenDR	source
+Gene Reviews	source
+GeneOntology	source
+GeneOntologyAnnotation	source
+HGNC	source
+HPO	source
+HPRD	source
+HUGO	source
+Homologene	source
+HumanCyc	source
+INOH	source
+InnateDB	source
+IntAct	source
+International Mouse Phenotyping Consortium	source
+Interpro	source
+JAX	source
+KEGG	source
+LSR	source
+LinkedSPL	source
+MC3	source
+MGD	source
+MGI	source
+MSigDB	source
+MeSH	source
+MolecularMatch	source
+Monarch	system
+Mouse Phenome Database	source
+Mutant Mouse Resource and Research Centers	source
+MyGene	source
+NCBI Gene	source
+NCBITaxonomy	source
+NCI:PID	source
+NDC	source
+NHGRI-EBI GWAS	source
+NetPath	source
+OMIA	source
+OMIM	source
+ORPHANET	source
+OncoKB	source
+Orphanet	source
+PANTHER	source
+PFAM	source
+PMKB	source
+PathwayCommons	source
+PharmGKB	source
+PhosphoSitePlus	source
+PubMed	source
+Rat Genome Database	source
+Reactome	source
+Recon X	source
+SABIO-RK	source
+SGD	source
+SIDER	source
+STRING	source
+Saccharomyces Genome Database	source
+SwissProt	source
+Undiagnosed Diseases Program	source
+UniChem	source
+UniRef	source
+Uniprot	source
+VICC_G2P	system
+WikiPathways	source
+WorkBase	source
+WormBase	source
+ZebrafishInformationNetwork	source
+chEMBL	source
+clinicaltrials.gov	source
+dbSNP	source
+genage	source
+iProClass	source
+iRefIndex	source
+miRBase	source
+miRCancer	source
+miRNASNP	source
+miRTarBase	source

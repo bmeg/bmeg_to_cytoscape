@@ -93,3 +93,34 @@ ccle_allele_counts = allele_count(ccle_cases)
 ccle_drug_response_counts = drug_response_count(ccle_cases)
 
 ```
+
+
+# Using knowledge bases to identify potential therapy for cases
+
+```
+list(
+   grip.O.query().V().hasLabel('G2PAssociation').has(gripql.eq('evidence_label', 'A'))
+   .out('alleles').out('case').count()
+)
+>>> [<AttrDict({'count': 1476})>]
+
+
+
+list(
+  grip.O.query().V().hasLabel('G2PAssociation').has(gripql.eq('evidence_label', 'A'))
+  .out('alleles')
+  .count()
+)
+[<AttrDict({'count': 1855})>]
+
+print(datetime.datetime.now())
+list(
+  grip.O.query().V().hasLabel('G2PAssociation').has(gripql.eq('evidence_label', 'A'))
+  .out('alleles')
+  .out('somatic_callsets')
+  .out('aliquots')
+  .out('samples')
+  .out('case').render('_gid')
+  )
+print(datetime.datetime.now())  
+```
