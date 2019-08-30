@@ -1,0 +1,128 @@
+BMEG	includes	PathwayCommons
+BMEG	includes	MC3
+BMEG	includes	GeneOntology
+BMEG	includes	DepMap
+DepMap	includes	CCLE
+DepMap	includes	CTRP
+DepMap	includes	GDSC
+BMEG	includes	VICC_G2P
+VICC_G2P	includes	JAX
+VICC_G2P	includes	OncoKB
+VICC_G2P	includes	CiViC
+VICC_G2P	includes	MolecularMatch
+VICC_G2P	includes	PMKB
+VICC_G2P	includes	CGI
+BMEG	includes	PFAM
+BMEG	includes	Ensembl
+BMEG	includes	Uniprot
+BMEG	includes	GTEx
+BMEG	includes	PubMed
+BMEG	includes	DGIdb
+BioGrakn	includes	Reactome
+BioGrakn	includes	DGIdb
+BioGrakn	includes	Uniprot
+BioGrakn	includes	DrugBank
+BioGrakn	includes	PubMed
+BioGraph	includes	Uniprot
+BioGraph	includes	HGNC
+BioGraph	includes	GeneOntology
+BioGraph	includes	Reactome
+BioGraph	includes	miRBase
+BioGraph	includes	miRCancer
+BioGraph	includes	microRNA.org
+BioGraph	includes	miRTarBase
+BioGraph	includes	miRNASNP
+Bio4j	includes	Uniprot
+Bio4j	includes	GeneOntology
+Bio4j	includes	UniRef
+Bio4j	includes	NCBITaxonomy
+Bio4j	includes	Expasy
+Monarch	includes	MGI
+Monarch	includes	ZebrafishInformationNetwork
+Monarch	includes	WorkBase
+Monarch	includes	FlyBase
+Monarch	includes	International Mouse Phenotyping Consortium
+Monarch	includes	Mouse Phenome Database
+Monarch	includes	OMIA
+Monarch	includes	ClinVar
+Monarch	includes	OMIM
+Monarch	includes	ORPHANET
+Monarch	includes	PANTHER
+Monarch	includes	Coriell Cell Repositories
+Monarch	includes	Comparative Toxicogenomics Database
+Monarch	includes	HPO
+Monarch	includes	KEGG
+Monarch	includes	MyGene
+Monarch	includes	BioGRID
+Monarch	includes	NHGRI-EBI GWAS
+Monarch	includes	AnimalQTLdb
+Monarch	includes	Ensembl
+Monarch	includes	GeneOntology
+Monarch	includes	HUGO
+Monarch	includes	Gene Reviews
+Monarch	includes	HUGO
+Monarch	includes	Mutant Mouse Resource and Research Centers
+Monarch	includes	Reactome
+Monarch	includes	Undiagnosed Diseases Program
+Monarch	includes	Bgee
+Monarch	includes	STRING
+Monarch	includes	Rat Genome Database
+Monarch	includes	Saccharomyces Genome Database
+PathwayCommons	includes	BIND
+PathwayCommons	includes	BioGRID
+PathwayCommons	includes	CORUM
+PathwayCommons	includes	Comparative Toxicogenomics Database
+PathwayCommons	includes	Reactome
+PathwayCommons	includes	NCI:PID
+PathwayCommons	includes	PhosphoSitePlus
+PathwayCommons	includes	HumanCyc
+PathwayCommons	includes	HPRD
+PathwayCommons	includes	PANTHER
+PathwayCommons	includes	DIP
+PathwayCommons	includes	IntAct
+PathwayCommons	includes	MSigDB
+PathwayCommons	includes	miRTarBase
+PathwayCommons	includes	DrugBank
+PathwayCommons	includes	Recon X
+PathwayCommons	includes	KEGG
+PathwayCommons	includes	INOH
+PathwayCommons	includes	NetPath
+PathwayCommons	includes	WikiPathways
+PathwayCommons	includes	InnateDB
+PathwayCommons	includes	ChEBI
+PathwayCommons	includes	SwissProt
+PathwayCommons	includes	UniChem
+Bio2RDF	includes	BioModels
+Bio2RDF	includes	BioPortal
+Bio2RDF	includes	chEMBL
+Bio2RDF	includes	clinicaltrials.gov
+Bio2RDF	includes	Comparative Toxicogenomics Database
+Bio2RDF	includes	dbSNP
+Bio2RDF	includes	DrugBank
+Bio2RDF	includes	genage
+Bio2RDF	includes	GenDR
+Bio2RDF	includes	GeneOntologyAnnotation
+Bio2RDF	includes	HUGO
+Bio2RDF	includes	Homologene
+Bio2RDF	includes	Interpro
+Bio2RDF	includes	iProClass
+Bio2RDF	includes	iRefIndex
+Bio2RDF	includes	KEGG
+Bio2RDF	includes	LinkedSPL
+Bio2RDF	includes	LSR
+Bio2RDF	includes	MeSH
+Bio2RDF	includes	MGD
+Bio2RDF	includes	NCBI Gene
+Bio2RDF	includes	NDC
+Bio2RDF	includes	OMIM
+Bio2RDF	includes	Orphanet
+Bio2RDF	includes	PathwayCommons
+Bio2RDF	includes	PharmGKB
+Bio2RDF	includes	PubMed
+Bio2RDF	includes	Reactome
+Bio2RDF	includes	SABIO-RK
+Bio2RDF	includes	SGD
+Bio2RDF	includes	SIDER
+Bio2RDF	includes	NCBITaxonomy
+Bio2RDF	includes	WikiPathways
+Bio2RDF	includes	WormBase
