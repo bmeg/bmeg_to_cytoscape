@@ -123,4 +123,105 @@ list(
   .out('case').render('_gid')
   )
 print(datetime.datetime.now())  
+
+start = datetime.datetime.now()
+list(
+  grip.O.query().V().hasLabel('G2PAssociation').has(gripql.eq('evidence_label', 'A'))
+  .out('genes').distinct()
+  .out('alleles').distinct()
+  .out('somatic_callsets').distinct()
+  .out('aliquots')
+  .out('sample')
+  .out('case').distinct()  
+  .count()
+  )
+print(datetime.datetime.now() - start)  
+[INFO]	2019-09-03 15:40:33,952	1 results received in 46 seconds
+[<AttrDict({'count': 10271})>]
+
+
+
+start = datetime.datetime.now()
+list(
+  grip.O.query().V().hasLabel('G2PAssociation').has(gripql.eq('evidence_label', 'A'))
+  .out('alleles').distinct()
+  .out('somatic_callsets').distinct()
+  .out('aliquots')
+  .out('sample')
+  .out('case').distinct()  
+  .count()
+  )
+print(datetime.datetime.now() - start)  
+
+
+
+start = datetime.datetime.now()
+list(
+  grip.O.query().V().hasLabel('G2PAssociation')
+  .count()
+  )
+print(datetime.datetime.now() - start)  
+>>>50099
+
+G2PAssociation 50099
+Allele 10113
+Gene 329
+Compound 2434
+Publication 31538
+Phenotype 3297
+
+start = datetime.datetime.now()
+list(
+  grip.O.query().V().hasLabel('G2PAssociation')
+  .out('alleles').distinct()   
+  .count()
+  )
+print(datetime.datetime.now() - start)  
+>>>10113
+
+
+start = datetime.datetime.now()
+list(
+  grip.O.query().V().hasLabel('G2PAssociation')
+  .out('alleles').distinct()   
+  .out('gene').distinct()   
+  .count()
+  )
+print(datetime.datetime.now() - start)  
+>>>329
+
+
+start = datetime.datetime.now()
+list(
+  grip.O.query().V().hasLabel('G2PAssociation')
+  .out('compounds').distinct()   
+  .count()
+  )
+print(datetime.datetime.now() - start)  
+>>>2434
+
+
+
+start = datetime.datetime.now()
+list(
+  grip.O.query().V().hasLabel('G2PAssociation')
+  .out('publications').distinct()   
+  .count()
+  )
+print(datetime.datetime.now() - start)  
+>>>31538
+
+
+start = datetime.datetime.now()
+list(
+  grip.O.query().V().hasLabel('G2PAssociation')
+  .out('phenotypes').distinct()   
+  .count()
+  )
+print(datetime.datetime.now() - start)  
+>>>3297
+
+
+
+
 ```

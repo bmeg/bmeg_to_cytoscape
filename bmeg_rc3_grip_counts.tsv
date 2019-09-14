@@ -1,0 +1,41 @@
+parent	name	child	count	edge
+Program	projects(162)	Project	162	projects
+Project	cases(15571)	Case	15571	cases
+Project	compounds(23626)	Compound	23626	compounds
+Case	compounds(10751)	Compound	10751	compounds
+Case	phenotypes(14762)	Phenotype	14762	phenotypes
+Case	samples(52507)	Sample	52507	samples
+Sample	aliquots(822878)	Aliquot	822878	aliquots
+Sample	phenotypes(24724)	Phenotype	24724	phenotypes
+Aliquot	copy_number_alterations(10845)	CopyNumberAlteration	10845	copy_number_alterations
+Aliquot	drug_response(641610)	DrugResponse	641610	drug_response
+Aliquot	gene_expressions(24165)	GeneExpression	24165	gene_expressions
+Aliquot	somatic_callsets(23133)	SomaticCallset	23133	somatic_callsets
+Aliquot	transcript_expressions(12477)	TranscriptExpression	12477	transcript_expressions
+SomaticCallset	alleles(4798168)	Allele	4798168	alleles
+Allele	g2p_associations(120150)	G2PAssociation	120150	g2p_associations
+Allele	gene(4023739)	Gene	4023739	gene
+
+Gene	gene_ontology_terms(264730)	GeneOntologyTerm	264730	gene_ontology_terms
+Gene	interaction_input(1556760)	Interaction	1556760	interaction_input
+Gene	pathways(10951)	Pathway	10951	pathways
+Gene	transcripts(214804)	Transcript	214804	transcripts
+
+G2PAssociation	compounds(119189)	Compound	119189	compounds
+G2PAssociation	genes(139699)	Gene	139699	genes
+G2PAssociation	genomic_features(64439)	GenomicFeature	64439	genomic_features
+G2PAssociation	phenotypes(117319)	Phenotype	117319	phenotypes
+G2PAssociation	publications(81493)	Publication	81493	publications
+
+Compound	drug_responses(680250)	DrugResponse	680250	drug_responses
+
+GeneOntologyTerm	pfam_families(10433)	PfamFamily	10433	pfam_families
+GeneSet	genes(2466588)	Gene	2466588	genes
+GeneSet	publications(8796)	Publication	8796	publications
+Interaction	pathways(998903)	Pathway	998903	pathways
+Interaction	publications(13091100)	Publication	13091100	publications
+PfamFamily	pfam_clans(7001)	PfamClan	7001	pfam_clans
+PfamFamily	proteins(108729)	Protein	108729	proteins
+Protein	protein_structures(138232)	ProteinStructure	138232	protein_structures
+Protein	transcript(94575)	Transcript	94575	transcript
+Transcript	exons(1304705)	Exon	1304705	exons
